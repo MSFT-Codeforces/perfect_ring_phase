@@ -1,0 +1,13 @@
+{
+  "original": "https://www.codeforces.com/problemset/problem/1312/A",
+  "title": "Perfect Ring Phase",
+  "tags": [
+    "Arrays and Lists",
+    "Hash Tables",
+    "Algorithm Complexity and Big O Notation"
+  ],
+  "model_breaking": true,
+  "time": 1,
+  "space": 64,
+  "github_link": "https://github.com/MSFT-Codeforces/perfect_ring_phase"
+}
